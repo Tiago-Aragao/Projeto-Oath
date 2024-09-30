@@ -1,0 +1,50 @@
+estilos = {
+
+    # Aumentam dano para Ataques Físicos:
+    "⚔️ Guerreiro": "+1 dano para ataques físicos, -1 dano para ataques mágicos.",
+    "💥 Berserker": "+1 dano para ataques físicos, -1 na defesa mágica.",
+    "🛡️ Agressor": "+1 dano para ataques físicos, -1 na defesa física.",
+    "⚡ Impacto": "+1 dano para ataques físicos, -1 na esquiva.",
+
+    # Aumentam dano para Ataques Mágicos:
+    "🧙 Mago": "+1 dano para ataques mágicos, -1 dano para ataques físicos.",
+    "🔮 Arcanista": "+1 dano para ataques mágicos, -1 na defesa física.",
+    "🌌 Místico": "+1 dano para ataques mágicos, -1 na defesa mágica.",
+    "🌀 Ilusionista": "+1 dano para ataques mágicos, -1 na esquiva.",
+
+    # Aumentam a Defesa Física:
+    "🔰 Guardião": "+1 na defesa física, -1 no dano para ataques mágicos.",
+    "🛡️ Defensor": "+1 na defesa física, -1 no dano para ataques físicos",
+    "🦸‍♂️ Fortificador": "+1 na defesa física, -1 na esquiva.",
+    "🏰 Bastião": "+1 na defesa física, -1 na defesa mágica.",
+
+    # Aumentam a Defesa Mágica:
+    "🦸‍♂️ Protetor": "+1 na defesa mágica, -1 dano para ataques físicos.",
+    "🔮 Desfocado": "+1 na defesa mágica, -1 no dano para ataques mágicos.",
+    "✨ Barreira": "+1 na defesa mágica, -1 na esquiva.",
+    "🌈 Aegis": "+1 na defesa mágica, -1 na defesa física.",
+
+    # Aumentam Acurácia:
+    "⚖️ Equilibrado": "+1 na Acurácia, -1 no dano para ataques físicos.",
+    "🚀 Acelerador": "+1 na Acurácia, -1 no dano para ataques mágicos.",
+    "🔭 Focalizador": "+1 na Acurácia, -1 na defesa física.",
+    "🏹 Precisão": "+1 na Acurácia, -1 na defesa mágica.",
+    
+    # Aumentam Esquiva:
+    "🌑 Sombra": "+1 na esquiva, -1 na defesa física.",
+    "🏃‍♀️ Evasor": "+1 na esquiva, -1 na defesa mágica.",
+    "⚡ Velocista": "+1 na esquiva, -1 no dano para ataques físicos",
+    "🏃‍♂️ Escapista": "+1 na esquiva, -1 no dano para ataques mágicos.",
+    
+    # Aumentam Vida:
+    "❤️ Guardião": "+1 de vida, -1 na defesa mágica.",
+    "🔋 Sustentador": "+1 de vida, -1 no dano para ataques físicos.",
+    "🌌 Resiliênte":"+1 de vida, -1 no dano para ataques mágicos.",
+    "🌿 Vitalidade": "+1 de vida, -1 na defesa física.",
+
+    # Aumentam Mana:
+    "📜 Mestre de Mana": "+1 de Mana, -1 no dano para ataques físicos.",
+    "🌌 Amplificador": "+1 de Mana, -1 no dano para ataques mágicos.",
+    "🧩 Tático": "+1 de Mana, -1 na defesa mágica.",
+    "🔋 Energizador": "+1 de Mana, -1 na defesa física.",
+}
